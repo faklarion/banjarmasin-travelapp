@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_lokasi"
+        android:title="Tempat" />
+
+    <item android:id="@+id/person"
+        android:icon="@drawable/ic_informasi"
+        android:title="Informasi Umum" />
+
+    <item android:id="@+id/notidications"
+        android:icon="@drawable/ic_live_help_black_24dp"
+        android:title="Tentang" />
+</menu>
