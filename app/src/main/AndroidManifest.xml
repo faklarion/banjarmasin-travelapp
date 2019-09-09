@@ -68,10 +68,8 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyC7skhBsK-5Q0P0fNWJr_YXVjh-FVKOlzw"/>
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1330999924595324~3145764942"/>
+            android:value="your maps api key"/>
+        
         <uses-library android:name="org.apache.http.legacy" android:required="false"/>
 
 
